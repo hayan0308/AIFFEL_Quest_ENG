@@ -1,0 +1,6 @@
+path: /Users/maegbug/Desktop/무제 폴더/blade30_tiles
+train: images/train
+val: images/val
+names:
+  0: dirt
+  1: damage

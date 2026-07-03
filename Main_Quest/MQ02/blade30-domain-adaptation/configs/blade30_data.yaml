@@ -1,0 +1,5 @@
+path: ./blade30_yolo_defects
+test: images
+names:
+  0: Dirt
+  1: Damage

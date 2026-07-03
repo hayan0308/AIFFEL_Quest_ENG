@@ -1,0 +1,5 @@
+train: nordtank_val.txt
+val: nordtank_val.txt
+names:
+  0: dirt
+  1: damage

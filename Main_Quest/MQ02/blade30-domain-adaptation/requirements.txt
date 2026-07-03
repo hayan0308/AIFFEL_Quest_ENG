@@ -1,0 +1,7 @@
+ultralytics>=8.4
+ensemble-boxes>=1.0
+sahi>=0.11
+opencv-python>=4.8
+pycocotools>=2.0
+numpy
+pillow
